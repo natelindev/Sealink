@@ -1,4 +1,12 @@
 # Sealink
+#### Chat Window
+
+![1](1.png)
+
+#### Main Window
+
+![1](2.png)
+
 A Real-Time Communication SoftWare built for Linux.
 
 GUI built using GTK 2.8.3
